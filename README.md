@@ -1,8 +1,8 @@
 <img src = "https://th.bing.com/th/id/R.93e45a85d55d229c24d7010cbb96b9dd?rik=b3MJaJPx9wj8ew&riu=http%3a%2f%2fwww.freeworldgroup.com%2fpaidimages3%2flarge3%2fmystery3.jpg&ehk=finGjnnfmogMc2DNoBxEa%2bXbVNgUZdNSUcunPnBKmPM%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width = "1500">
 <h1 align = 'center', style = 'font-size:48px'><strong>A Mystery in Fiftyville</strong></h1>
 
-## Overview
-The CS50 Duck has been stolen! The town of Fiftyville has called upon you to solve the mystery of the stolen duck. Authorities believe that the thief stole the duck and then, shortly afterwards, took a flight out of town with the help of an accomplice. Your goal is to identify:
+<h>Overview</h>
+The CS50 Duck has been stolen! The town of Fiftyville has called upon you to solve the mystery of the stolen duck. Authorities believe that the thief stole the duck and then, shortly afterwards, took a flight out of town with the help of an accomplice. Your goal is to identify: [<sup>1</sup>](https://github.com/nurudeenabdulsalaam/CS50)
 
 - Who the thief is,
 - What city the thief escaped to, and
